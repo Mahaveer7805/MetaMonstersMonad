@@ -6,8 +6,7 @@
 
 - 🐣 **Adopt Monsters**: Mint your own unique NFT-based monsters.
 - 🧬 **Evolution System**: Monsters evolve based on experience, wins, and special traits.
-- 🏅 **On-Chain Leaderboard**: Track top battlers and win rewards.
-- 🧱 **Marketplace**: Buy, sell, and trade evolved MetaMonsters NFTs.
+- 🧱 **NFT minting**: Mint and evolve MetaMonsters NFTs.
 
 ---
 
@@ -18,7 +17,6 @@
 - ⚡ **Wallet Integration**: `ethers.js`, WalletConnect.
 - 🔁 **On-Chain Logic**: All battles, evolution, and ownership handled on-chain.
 - 🧠 **AI Opponents (Optional)**: For training mode with local ML logic.
-- 📊 **Leaderboard + Match Logs**: Fully indexed via on-chain events.
 
 ---
 
@@ -26,9 +24,8 @@
 
 | Feature            | Description                                                      |
 |--------------------|------------------------------------------------------------------|
-| 🎮 Battle System   | Turn-based 1v1 PvP with attack/defense stats on-chain            |
+| 🎮 Battle System   | Battle win random monsters with different capabilities.          |
 | 🧬 Evolution Logic | Level-up based on XP + wins. Upgrades stored via NFT metadata    |
 | 💼 NFT Minting     | Mint unique monsters with randomized traits                      |
-| 🛒 Marketplace     | List and buy NFTs in a decentralized marketplace                 |
 | 🧾 Match Logging   | Every match emits an event for on-chain history                  |
-| 🏆 Leaderboard     | `getTopPlayers()` and player stats stored in contract            |
+| 🏆 Leaderboard     | Upcoming leaderboard feature.           |

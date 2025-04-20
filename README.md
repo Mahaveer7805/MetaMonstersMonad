@@ -23,7 +23,7 @@ MetaMonsters brings the thrill of monster collection and evolution to the blockc
 ### About Me:  
 - Mahaveersinh Vaghela (Developer / Smart Contracts / Frontend) 
 
-### Our Approach:  
+### My Approach:  
 - Chose this problem to demonstrate real gameplay utility of smart contracts  
 - Integrated on-chain evolution and upgrade systems for NFTs  
 - Iterated over minting, metadata handling, and battle mechanics to create an intuitive player experience  
